@@ -47,7 +47,7 @@ mistune==0.8.4
 mpl-finance==0.10.0
 multipledispatch==0.6.0
 multitasking==0.0.9
-nbconvert==5.6.0
+nbconvert==6.5.1
 nbformat==4.4.0
 networkx==1.11
 notebook==6.0.1
